@@ -1,0 +1,11 @@
+streamlit
+torch
+diffusers
+transformers
+accelerate
+Pillow
+numpy
+librosa
+soundfile
+pydub
+noisereduce
